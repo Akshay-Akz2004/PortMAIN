@@ -430,3 +430,19 @@ footer {
 footer p {
   text-align: center;
 }
+
+.section__text__p1{
+  font-size: 50px;
+}
+
+section__text__p2{
+  font-size: 50px;
+}
+
+.title{
+  font-size: 70px;
+}
+
+#contact{
+  margin-top: 100px;
+}
